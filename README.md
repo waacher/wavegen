@@ -4,8 +4,11 @@ Waveform Generator
 ### A simple customizable function generator  
 
 Shapes: Sine, Square, Sawtooth
+
 Frequencies: 100, 200, 300, 400, 500 Hz
+
 Peak-to-peak: 1, 2, 3.3 V
+
 Duty cycle: 10%, 20%, . . . 80%, 90%
 
 ## Controls:
