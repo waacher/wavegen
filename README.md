@@ -21,3 +21,7 @@ Pushing the * button decreases the square wave duty cycle by 10%, and pushing th
 Pushing the 0 button resets the duty cycle to 50%. 
 The *, 0, and # buttons have no effect on the sine or sawtooth waveforms.
 Peak-to-peak voltages of 1 V, 2 V, and 3.3 V are supported, and are accessed by pressing the 6 key in order to utilize the next Vpp.
+
+## Schematic:
+
+![Diagram](https://github.com/waacher/wavegen/blob/master/schematic.png)
